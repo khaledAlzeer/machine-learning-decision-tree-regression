@@ -9,7 +9,7 @@ The goal is to predict salary based on **position level**.
 Decision Tree Regression splits the data into regions and fits constant values for predictions.  
 It captures non-linear relationships and creates a "stair-step" prediction pattern.
 
-------------------------------------------------------------
+-------------------------------------------------------------
 
 📂 Dataset Description
 
